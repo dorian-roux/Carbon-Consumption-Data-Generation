@@ -1,6 +1,7 @@
 <div align="center" style = "display: block; align-items: center;
   justify-content: center">
   <img src="_Other/Images/CY TECH Logo.png" alt="Logo" height="80px" style = "margin: 10px">
+  </br>
   <span align="center" style = "font-weight: 500; font-size: 18px;">4th Year International Bachelor in Data Science</span>  
 </div>
 <div align="center" >
