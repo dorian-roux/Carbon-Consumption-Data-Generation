@@ -1,0 +1,32 @@
+,Unnamed: 0,Country,City,Population,Latitude,Longitude,Company,Type
+0,0,Japan,Tokyo,37977000.0,35.663774,139.71444,Prada,Luxury
+1,1,Indonesia,Jakarta,34540000.0,-6.2198921,106.787619,Prada,Luxury
+2,2,India,Delhi,29617000.0,46.3092354,10.0706491,Prada,Luxury
+3,3,India,Mumbai,23355000.0,46.3092354,10.0706491,Prada,Luxury
+4,4,Philippines,Manila,23088000.0,46.3092354,10.0706491,Prada,Luxury
+5,5,China,Shanghai,22120000.0,31.2180508,121.4541852,Prada,Luxury
+6,6,Brazil,São Paulo,22046000.0,-22.57518935,-47.41064716880531,Prada,Luxury
+7,7,"Korea, South",Seoul,21794000.0,37.5264055,127.04634506143525,Prada,Luxury
+8,8,Mexico,Mexico City,20996000.0,19.466653,-99.213074,Prada,Luxury
+9,9,China,Guangzhou,20902000.0,23.1363735,113.326915,Prada,Luxury
+10,10,China,Beijing,19433000.0,39.9079561,116.4727357,Prada,Luxury
+11,11,Egypt,Cairo,19372000.0,42.69761305,2.7132010879859423,Prada,Luxury
+12,12,United States,New York,18713220.0,40.7626298,-73.974484,Prada,Luxury
+13,13,India,Kolkāta,17560000.0,46.3092354,10.0706491,Prada,Luxury
+14,14,Russia,Moscow,17125000.0,55.7627179,37.6136371,Prada,Luxury
+15,15,Thailand,Bangkok,17066000.0,46.3092354,10.0706491,Prada,Luxury
+16,16,Argentina,Buenos Aires,16157000.0,-35.2717319,-57.2295337,Prada,Luxury
+17,17,Bangladesh,Dhaka,15443000.0,46.3092354,10.0706491,Prada,Luxury
+18,18,Nigeria,Lagos,15279000.0,42.63301545,2.234672442906448,Prada,Luxury
+19,19,Turkey,Istanbul,15154000.0,41.0487075,28.9925538,Prada,Luxury
+20,20,Japan,Ōsaka,14977000.0,34.6714893,135.5006757,Prada,Luxury
+21,21,Pakistan,Karachi,14835000.0,46.3092354,10.0706491,Prada,Luxury
+22,22,India,Bangalore,13707000.0,46.3092354,10.0706491,Prada,Luxury
+23,23,Iran,Tehran,13633000.0,46.3092354,10.0706491,Prada,Luxury
+24,24,Vietnam,Ho Chi Minh City,13312000.0,21.0247206,105.8570964,Prada,Luxury
+25,25,United States,Los Angeles,12750807.0,34.0684678,-118.402524,Prada,Luxury
+26,26,India,Chennai,11324000.0,46.3092354,10.0706491,Prada,Luxury
+27,27,Pakistan,Lahore,11021000.0,46.3092354,10.0706491,Prada,Luxury
+28,28,France,Paris,11020000.0,48.8655508,2.3039717,Prada,Luxury
+29,29,United Kingdom,London,10979000.0,51.50912195,-0.1406748866679933,Prada,Luxury
+30,30,China,Tianjin,10800000.0,39.0896628,117.2088784,Prada,Luxury

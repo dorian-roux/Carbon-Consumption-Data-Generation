@@ -1,0 +1,102 @@
+,Country,City,Population,Latitude,Longitude,Company,Type
+0,Japan,Tokyo,37977000.0,43.6534558,-79.3803811,Sephora,Cosmetic
+1,China,Shanghai,22120000.0,31.2366642,121.4714425,Sephora,Cosmetic
+2,Brazil,São Paulo,22046000.0,-21.2114105,-47.8170195,Sephora,Cosmetic
+3,Mexico,Mexico City,20996000.0,19.4389697,-99.203291,Sephora,Cosmetic
+4,Egypt,Cairo,19372000.0,29.992286800000002,31.50490150402916,Sephora,Cosmetic
+5,United States,New York,18713220.0,40.7568751,-73.9858307,Sephora,Cosmetic
+6,Russia,Moscow,17125000.0,55.7966092,37.5422805,Sephora,Cosmetic
+7,Argentina,Buenos Aires,16157000.0,45.4801846,9.2105684,Sephora,Cosmetic
+8,Nigeria,Lagos,15279000.0,47.637619900000004,6.858364361333332,Sephora,Cosmetic
+9,Turkey,Istanbul,15154000.0,41.0348523,28.9800313,Sephora,Cosmetic
+10,Congo (Kinshasa),Kinshasa,13528000.0,-4.0548353,15.5584747,Sephora,Cosmetic
+11,Vietnam,Ho Chi Minh City,13312000.0,1.2935792,103.8566452,Sephora,Cosmetic
+12,United States,Los Angeles,12750807.0,34.1018086,-118.3399417,Sephora,Cosmetic
+13,France,Paris,11020000.0,48.8710252,2.3049273,Sephora,Cosmetic
+14,United Kingdom,London,10979000.0,43.0258132,-81.278141,Sephora,Cosmetic
+15,China,Tianjin,10800000.0,39.1331195,117.1741215,Sephora,Cosmetic
+16,China,Weifang,9373000.0,36.709932,119.1051766,Sephora,Cosmetic
+17,United States,Chicago,8604203.0,41.892672,-87.6238811,Sephora,Cosmetic
+18,Malaysia,Kuala Lumpur,8285000.0,3.1571774,101.7122113,Sephora,Cosmetic
+19,China,Dongguan,7981000.0,36.709932,119.1051766,Sephora,Cosmetic
+20,China,Foshan,7905700.0,22.760768,113.2695027,Sephora,Cosmetic
+21,China,Changchun,7674439.0,43.8650427,125.2894755,Sephora,Cosmetic
+22,China,Nanjing,7496000.0,31.2366642,121.4714425,Sephora,Cosmetic
+23,Hong Kong,Hong Kong,7347000.0,22.760768,113.2695027,Sephora,Cosmetic
+24,China,Xi’an,7135000.0,47.5094126,6.7971414,Sephora,Cosmetic
+25,Chile,Santiago,7007000.0,38.7107827,-9.1392733,Sephora,Cosmetic
+26,United States,Miami,6445545.0,25.8138222,-80.1935874,Sephora,Cosmetic
+27,China,Lu’an,6090000.0,37.1746554,-3.5989147,Sephora,Cosmetic
+28,Spain,Madrid,6026000.0,40.417252,-3.7036933,Sephora,Cosmetic
+29,China,Qingdao,5775000.0,36.1589325,120.4214338,Sephora,Cosmetic
+30,Singapore,Singapore,5745000.0,1.3004579,103.8448989,Sephora,Cosmetic
+31,United States,Dallas,5743938.0,32.9294231,-96.8191805,Sephora,Cosmetic
+32,United States,Philadelphia,5649300.0,39.9514289,-75.169288,Sephora,Cosmetic
+33,China,Tai’an,5499000.0,47.9961476,-4.1047436,Sephora,Cosmetic
+34,United States,Houston,5464251.0,29.959988,-95.5392937,Sephora,Cosmetic
+35,United States,Atlanta,5449398.0,33.9243207,-84.3419356,Sephora,Cosmetic
+36,Canada,Toronto,5429524.0,43.6694027,-79.3899427,Sephora,Cosmetic
+37,United States,Washington,5379184.0,38.8971869,-77.0261629,Sephora,Cosmetic
+38,Russia,Saint Petersburg,5351935.0,59.92824665,30.359991920446298,Sephora,Cosmetic
+39,China,Shantou,5319028.0,23.3641749,116.7119662,Sephora,Cosmetic
+40,Australia,Sydney,5312163.0,-33.7771969,151.122217,Sephora,Cosmetic
+41,China,Pudong,5187200.0,31.1426312,121.6565714,Sephora,Cosmetic
+42,Australia,Melbourne,5078193.0,-37.8105632,144.9627185,Sephora,Cosmetic
+43,Côte D’Ivoire,Abidjan,4980000.0,5.3233245,-4.0735304,Sephora,Cosmetic
+44,China,Ji’an,4956600.0,46.5819973,0.340912,Sephora,Cosmetic
+45,Egypt,Alexandria,4870000.0,44.9114846,8.6127264,Sephora,Cosmetic
+46,United States,Boston,4688346.0,42.360368550000004,-71.05621737499999,Sephora,Cosmetic
+47,Spain,Barcelona,4588000.0,41.4056287,2.1910479,Sephora,Cosmetic
+48,China,Wuxi,4580000.0,31.5830454,120.3899822,Sephora,Cosmetic
+49,United States,Seattle,3789215.0,47.6635515,-122.298057,Sephora,Cosmetic
+50,China,Lanzhou,3616163.0,36.0639471,103.8609455,Sephora,Cosmetic
+51,United States,San Francisco,3592294.0,37.7275704,-122.4769288,Sephora,Cosmetic
+52,China,Taiyuan,3398000.0,37.8071356,112.5216785,Sephora,Cosmetic
+53,India,Lucknow,3382000.0,26.8578667,80.9762921,Sephora,Cosmetic
+54,China,Chaoyang,3370000.0,43.8650427,125.2894755,Sephora,Cosmetic
+55,United States,San Diego,3220118.0,32.8690334,-117.2308316,Sephora,Cosmetic
+56,Bolivia,Santa Cruz,3151676.0,38.3435255,-0.4920692,Sephora,Cosmetic
+57,China,Zhenjiang,3113384.0,32.2066419,119.4477931,Sephora,Cosmetic
+58,Brazil,Brasília,3015268.0,-13.0073579,-38.5246577,Sephora,Cosmetic
+59,United States,Minneapolis,2977172.0,44.9479107,-93.2981059,Sephora,Cosmetic
+60,Brazil,Salvador,2886698.0,-13.0073579,-38.5246577,Sephora,Cosmetic
+61,United States,Denver,2876625.0,39.7430847,-104.9907017,Sephora,Cosmetic
+62,Italy,Rome,2872800.0,41.9066947,12.478164,Sephora,Cosmetic
+63,United States,Brooklyn,2559903.0,40.6923955,-73.9908594,Sephora,Cosmetic
+64,Australia,Brisbane,2514184.0,-27.4872432,153.01133066710892,Sephora,Cosmetic
+65,United Arab Emirates,Dubai,2502715.0,25.2098469,55.2604861,Sephora,Cosmetic
+66,Guatemala,Guatemala City,2450212.0,19.4389697,-99.203291,Sephora,Cosmetic
+67,Cameroon,Yaoundé,2440462.0,3.7819688,11.5187006,Sephora,Cosmetic
+68,China,Jilin,2396000.0,43.8650427,125.2894755,Sephora,Cosmetic
+69,Indonesia,Bandung,2394873.0,-6.8884912,107.5957448,Sephora,Cosmetic
+70,Canada,Vancouver,2264823.0,49.2840719,-123.117383,Sephora,Cosmetic
+71,China,Yan’an,2150000.0,34.2235793,108.8927817,Sephora,Cosmetic
+72,United States,Riverside,2107852.0,33.7195637,-116.3827893,Sephora,Cosmetic
+73,United States,Baltimore,2106068.0,39.40482780000001,-76.78922437647117,Sephora,Cosmetic
+74,United States,Las Vegas,2104198.0,36.1106445,-115.1723302,Sephora,Cosmetic
+75,United States,Portland,2074775.0,45.5187774,-122.6769219,Sephora,Cosmetic
+76,United States,San Antonio,2049293.0,29.4937346,-98.4804004,Sephora,Cosmetic
+77,United States,Sacramento,1898019.0,38.7107827,-9.1392733,Sephora,Cosmetic
+78,Romania,Bucharest,1883425.0,44.5074595,26.0901758,Sephora,Cosmetic
+79,United States,Orlando,1822394.0,28.4448917,-81.3939342,Sephora,Cosmetic
+80,United States,San Jose,1798103.0,37.2940851,-121.988735,Sephora,Cosmetic
+81,Poland,Warsaw,1790658.0,52.2319131,21.0201107,Sephora,Cosmetic
+82,Pakistan,Hyderabad City,1732693.0,45.4764216,-75.9986803,Sephora,Cosmetic
+83,United States,Pittsburgh,1703266.0,40.4514149,-79.932741,Sephora,Cosmetic
+84,United States,Austin,1687311.0,30.4034486,-97.722026,Sephora,Cosmetic
+85,United States,Kansas City,1636715.0,39.0414853,-94.5926049,Sephora,Cosmetic
+86,United States,Manhattan,1628706.0,40.7947866,-73.9663698,Sephora,Cosmetic
+87,India,Āgra,1585705.0,43.3665357,-8.4075964,Sephora,Cosmetic
+88,United States,Columbus,1562009.0,40.05363805,-82.91476528032135,Sephora,Cosmetic
+89,United States,Charlotte,1512923.0,35.1519915,-80.8317468,Sephora,Cosmetic
+90,Venezuela,Valencia,1484430.0,34.4150789,-118.558307,Sephora,Cosmetic
+91,United States,Virginia Beach,1478868.0,36.8170199,-76.0710539,Sephora,Cosmetic
+92,New Zealand,Auckland,1470100.0,-36.8476684,174.7658883,Sephora,Cosmetic
+93,United Arab Emirates,Sharjah,1400000.0,25.3445158,55.3984906,Sephora,Cosmetic
+94,Italy,Milan,1366180.0,45.4801846,9.2105684,Sephora,Cosmetic
+95,United States,Milwaukee,1365787.0,43.6080057,-116.2787328,Sephora,Cosmetic
+96,Czechia,Prague,1335084.0,50.0783197,14.461478173699422,Sephora,Cosmetic
+97,Mexico,Juárez,1321004.0,20.6125936,-105.2324999,Sephora,Cosmetic
+98,United States,Providence,1203230.0,41.8279355,-71.4164528,Sephora,Cosmetic
+99,Saudi Arabia,Medina,1180770.0,37.1746554,-3.5989147,Sephora,Cosmetic
+100,Mexico,Zapopan,1155790.0,20.7100752,-103.411718,Sephora,Cosmetic

@@ -1,0 +1,102 @@
+,Country,City,Population,Latitude,Longitude,Company,Type
+0,Japan,Tokyo,37977000.0,43.653746,-79.3809504,MAC Cosmetics,Cosmetic
+1,"Korea, South",Seoul,21794000.0,37.5142093,127.104805,MAC Cosmetics,Cosmetic
+2,Mexico,Mexico City,20996000.0,19.2994914,-99.1367632,MAC Cosmetics,Cosmetic
+3,United States,New York,18713220.0,40.642892,-73.782398,MAC Cosmetics,Cosmetic
+4,Nigeria,Lagos,15279000.0,52.95335195,-1.1507451809102196,MAC Cosmetics,Cosmetic
+5,Vietnam,Ho Chi Minh City,13312000.0,-12.471143,130.9838972,MAC Cosmetics,Cosmetic
+6,United States,Los Angeles,12750807.0,33.9413694,-118.4020992,MAC Cosmetics,Cosmetic
+7,France,Paris,11020000.0,48.8591926,2.345738,MAC Cosmetics,Cosmetic
+8,United Kingdom,London,10979000.0,51.5431765,-0.0072922,MAC Cosmetics,Cosmetic
+9,Peru,Lima,9848000.0,-12.0059372,-77.057967,MAC Cosmetics,Cosmetic
+10,China,Xi’an,7135000.0,43.5274744,5.4505309,MAC Cosmetics,Cosmetic
+11,United States,Miami,6445545.0,25.7905936,-80.1406102,MAC Cosmetics,Cosmetic
+12,China,Lu’an,6090000.0,51.9187561,4.4778509,MAC Cosmetics,Cosmetic
+13,Spain,Madrid,6026000.0,40.4180141,-3.7047583,MAC Cosmetics,Cosmetic
+14,United States,Dallas,5743938.0,32.9298284,-96.8189282,MAC Cosmetics,Cosmetic
+15,United States,Philadelphia,5649300.0,39.8745718,-75.251143,MAC Cosmetics,Cosmetic
+16,China,Tai’an,5499000.0,45.3470193,-75.80659739444354,MAC Cosmetics,Cosmetic
+17,United States,Houston,5464251.0,29.9856078,-95.3383066,MAC Cosmetics,Cosmetic
+18,United States,Atlanta,5449398.0,33.9242784,-84.3417669,MAC Cosmetics,Cosmetic
+19,Canada,Toronto,5429524.0,43.7776714,-79.3446042,MAC Cosmetics,Cosmetic
+20,United States,Washington,5379184.0,48.7859439,-122.4906341,MAC Cosmetics,Cosmetic
+21,China,Ji’an,4956600.0,43.424535,-80.4389439,MAC Cosmetics,Cosmetic
+22,United States,Boston,4688346.0,42.3471005,-71.0812125,MAC Cosmetics,Cosmetic
+23,United States,Seattle,3789215.0,47.4440861,-122.30305958401061,MAC Cosmetics,Cosmetic
+24,Germany,Berlin,3644826.0,52.4627397,13.325593,MAC Cosmetics,Cosmetic
+25,Bolivia,Santa Cruz,3151676.0,34.014686,-118.4947591,MAC Cosmetics,Cosmetic
+26,United States,Minneapolis,2977172.0,44.9485128,-93.2984989,MAC Cosmetics,Cosmetic
+27,United Kingdom,Birmingham,2897303.0,35.220705,-80.9421255,MAC Cosmetics,Cosmetic
+28,Guatemala,Guatemala City,2450212.0,19.2994914,-99.1367632,MAC Cosmetics,Cosmetic
+29,Canada,Vancouver,2264823.0,49.2825304,-123.122212,MAC Cosmetics,Cosmetic
+30,United States,Queens,2230722.0,40.642892,-73.782398,MAC Cosmetics,Cosmetic
+31,United States,Riverside,2107852.0,33.7195874,-116.3832356,MAC Cosmetics,Cosmetic
+32,United States,Baltimore,2106068.0,39.2834293,-76.6000286,MAC Cosmetics,Cosmetic
+33,United States,Las Vegas,2104198.0,36.0816981,-115.1382931,MAC Cosmetics,Cosmetic
+34,Austria,Vienna,1911191.0,48.196879749999994,16.33791915,MAC Cosmetics,Cosmetic
+35,Romania,Bucharest,1883425.0,44.5079474,26.0901366,MAC Cosmetics,Cosmetic
+36,United States,Orlando,1822394.0,28.4461206,-81.3954232,MAC Cosmetics,Cosmetic
+37,United States,San Jose,1798103.0,9.94341505,-84.14953816313752,MAC Cosmetics,Cosmetic
+38,United States,Austin,1687311.0,30.4029514,-97.7253921,MAC Cosmetics,Cosmetic
+39,United States,Kansas City,1636715.0,39.0414285,-94.5914462,MAC Cosmetics,Cosmetic
+40,United States,Columbus,1562009.0,40.051475350000004,-82.91513821634449,MAC Cosmetics,Cosmetic
+41,United States,Charlotte,1512923.0,35.220705,-80.9421255,MAC Cosmetics,Cosmetic
+42,Germany,Munich,1471508.0,48.1482902,11.46345163522592,MAC Cosmetics,Cosmetic
+43,Netherlands,The Hague,1406000.0,52.0794408,4.3087603,MAC Cosmetics,Cosmetic
+44,Czechia,Prague,1335084.0,50.0837036,14.423726,MAC Cosmetics,Cosmetic
+45,Argentina,Rosario,1193605.0,16.4097856,120.5992661,MAC Cosmetics,Cosmetic
+46,United States,Jacksonville,1181496.0,30.18441,-81.5537681,MAC Cosmetics,Cosmetic
+47,United States,Salt Lake City,1098526.0,40.7854731,-111.985901,MAC Cosmetics,Cosmetic
+48,Germany,Cologne,1085664.0,50.938448,6.9430532,MAC Cosmetics,Cosmetic
+49,United States,Richmond,1075798.0,49.167120100000005,-123.13839197499999,MAC Cosmetics,Cosmetic
+50,United States,Raleigh,1038738.0,35.8399423,-78.6797016,MAC Cosmetics,Cosmetic
+51,Canada,Ottawa,989567.0,45.3470193,-75.80659739444354,MAC Cosmetics,Cosmetic
+52,Panama,Panama City,880691.0,19.2994914,-99.1367632,MAC Cosmetics,Cosmetic
+53,Netherlands,Amsterdam,862965.0,52.365098,4.8848585,MAC Cosmetics,Cosmetic
+54,Portugal,Lisbon,506654.0,38.73843825,-9.399036111787932,MAC Cosmetics,Cosmetic
+55,Canada,Kitchener,470015.0,43.424535,-80.4389439,MAC Cosmetics,Cosmetic
+56,Costa Rica,San José,288054.0,9.94341505,-84.14953816313752,MAC Cosmetics,Cosmetic
+57,Cabo Verde,Praia,127832.0,50.81895555,-0.1380559743186323,MAC Cosmetics,Cosmetic
+58,Luxembourg,Luxembourg,124509.0,49.61194365,6.12843602094065,MAC Cosmetics,Cosmetic
+59,Bermuda,Hamilton,52320.0,43.2179497,-79.8615457,MAC Cosmetics,Cosmetic
+60,Italy,Naples,966144.0,40.853387,14.2725139,MAC Cosmetics,Cosmetic
+61,France,Toulouse,968638.0,43.6019544,1.44703271006979,MAC Cosmetics,Cosmetic
+62,United States,Bridgeport,924449.0,45.39633415,-122.75168587926481,MAC Cosmetics,Cosmetic
+63,Nigeria,Jos,873943.0,52.365098,4.8848585,MAC Cosmetics,Cosmetic
+64,Morocco,Sale,850403.0,48.2170416,16.346850289649133,MAC Cosmetics,Cosmetic
+65,China,Hai’an,866337.0,52.0794408,4.3087603,MAC Cosmetics,Cosmetic
+66,United Kingdom,Nottingham,768638.0,52.9517768,-1.1471784,MAC Cosmetics,Cosmetic
+67,Poland,Kraków,766739.0,50.067096649999996,19.945989028141405,MAC Cosmetics,Cosmetic
+68,United States,Albuquerque,761195.0,35.1032491,-106.5667888,MAC Cosmetics,Cosmetic
+69,United States,Birmingham,739573.0,35.220705,-80.9421255,MAC Cosmetics,Cosmetic
+70,Canada,Mississauga,721599.0,43.5932029,-79.6426162,MAC Cosmetics,Cosmetic
+71,Canada,Hamilton,693645.0,43.2179497,-79.8615457,MAC Cosmetics,Cosmetic
+72,Netherlands,Rotterdam,631155.0,51.9187561,4.4778509,MAC Cosmetics,Cosmetic
+73,Guatemala,Villa Nueva,618397.0,19.2994914,-99.1367632,MAC Cosmetics,Cosmetic
+74,Philippines,General Santos,594446.0,16.4097856,120.5992661,MAC Cosmetics,Cosmetic
+75,Canada,Brampton,593638.0,43.7159542,-79.7230283,MAC Cosmetics,Cosmetic
+76,Germany,Dortmund,587010.0,51.5132022,7.4595656,MAC Cosmetics,Cosmetic
+77,China,Fu’an,577000.0,45.7596368,4.8340966,MAC Cosmetics,Cosmetic
+78,Venezuela,Ciudad Bolívar,567953.0,19.2994914,-99.1367632,MAC Cosmetics,Cosmetic
+79,United States,Columbia,560041.0,49.2825304,-123.122212,MAC Cosmetics,Cosmetic
+80,Spain,Palma,550000.0,16.4097856,120.5992661,MAC Cosmetics,Cosmetic
+81,France,Lyon,516092.0,45.7596368,4.8340966,MAC Cosmetics,Cosmetic
+82,United States,Mesa,518012.0,33.6907036,-117.8899233,MAC Cosmetics,Cosmetic
+83,Canada,Surrey,517887.0,49.1900923,-122.8042388,MAC Cosmetics,Cosmetic
+84,Vietnam,Vinh,490000.0,40.7765167,-73.8539947,MAC Cosmetics,Cosmetic
+85,United States,Staten Island,476143.0,40.5815088,-74.1655987129158,MAC Cosmetics,Cosmetic
+86,Poland,Gdańsk,464254.0,54.3488089,18.6440798,MAC Cosmetics,Cosmetic
+87,United States,Reno,445020.0,50.938448,6.9430532,MAC Cosmetics,Cosmetic
+88,Brazil,Santos,433966.0,16.4097856,120.5992661,MAC Cosmetics,Cosmetic
+89,United States,Oakland,433031.0,42.562983700000004,-83.18372628005915,MAC Cosmetics,Cosmetic
+90,United States,Durham,424700.0,43.8915384,-78.8805117,MAC Cosmetics,Cosmetic
+91,Philippines,Angeles City,411634.0,33.94680945,-118.40145329726883,MAC Cosmetics,Cosmetic
+92,United States,Lancaster,401524.0,40.0674875,-76.3396096,MAC Cosmetics,Cosmetic
+93,Saudi Arabia,Ḩā’il,385257.0,48.8591926,2.345738,MAC Cosmetics,Cosmetic
+94,Canada,London,383822.0,51.5431765,-0.0072922,MAC Cosmetics,Cosmetic
+95,Colombia,Pasto,382236.0,52.916831650000006,-1.4737038518918153,MAC Cosmetics,Cosmetic
+96,Serbia,Novi Sad,380000.0,42.4923414,-83.468594496295,MAC Cosmetics,Cosmetic
+97,Chile,La Florida,366916.0,28.4461206,-81.3954232,MAC Cosmetics,Cosmetic
+98,Germany,Bochum,364628.0,51.4946254,7.2810396,MAC Cosmetics,Cosmetic
+99,Philippines,Baguio City,345366.0,16.4097856,120.5992661,MAC Cosmetics,Cosmetic
+100,United States,Lancaster,343304.0,40.0674875,-76.3396096,MAC Cosmetics,Cosmetic

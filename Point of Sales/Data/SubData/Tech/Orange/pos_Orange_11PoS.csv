@@ -1,0 +1,12 @@
+,Unnamed: 0,Country,City,Population,Latitude,Longitude,Company,Type
+0,0,Japan,Tokyo,37977000.0,35.7063295,139.7868525,Orange,Tech
+1,1,Indonesia,Jakarta,34540000.0,-6.2066309,106.7522775,Orange,Tech
+2,2,India,Delhi,29617000.0,33.7160692,-117.862108,Orange,Tech
+3,3,India,Mumbai,23355000.0,19.1805873,72.9673376,Orange,Tech
+4,4,Philippines,Manila,23088000.0,14.6389747,121.1190025,Orange,Tech
+5,5,China,Shanghai,22120000.0,41.2537013,-73.0183925,Orange,Tech
+6,6,Brazil,São Paulo,22046000.0,-22.58952795,-46.84766123709096,Orange,Tech
+7,7,"Korea, South",Seoul,21794000.0,33.7348934,-117.8125933,Orange,Tech
+8,8,Mexico,Mexico City,20996000.0,35.2469958,-106.7265068,Orange,Tech
+9,9,China,Guangzhou,20902000.0,23.3941177,113.2395462,Orange,Tech
+10,10,China,Beijing,19433000.0,-17.3547856,-66.1801938,Orange,Tech

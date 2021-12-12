@@ -1,0 +1,102 @@
+,Country,City,Population,Latitude,Longitude,Company,Type
+0,Japan,Tokyo,37977000.0,35.663774,139.71444,Prada,Luxury
+1,Indonesia,Jakarta,34540000.0,-6.2198921,106.787619,Prada,Luxury
+2,India,Delhi,29617000.0,46.3092354,10.0706491,Prada,Luxury
+3,India,Mumbai,23355000.0,46.3092354,10.0706491,Prada,Luxury
+4,Philippines,Manila,23088000.0,46.3092354,10.0706491,Prada,Luxury
+5,China,Shanghai,22120000.0,31.2180508,121.4541852,Prada,Luxury
+6,Brazil,São Paulo,22046000.0,-22.575189350000002,-47.41064716880531,Prada,Luxury
+7,"Korea, South",Seoul,21794000.0,37.526405499999996,127.04634506143523,Prada,Luxury
+8,Mexico,Mexico City,20996000.0,19.466653,-99.213074,Prada,Luxury
+9,China,Guangzhou,20902000.0,23.1363735,113.326915,Prada,Luxury
+10,China,Beijing,19433000.0,39.9079561,116.4727357,Prada,Luxury
+11,Egypt,Cairo,19372000.0,42.69761305,2.7132010879859423,Prada,Luxury
+12,United States,New York,18713220.0,40.7626298,-73.974484,Prada,Luxury
+13,India,Kolkāta,17560000.0,46.3092354,10.0706491,Prada,Luxury
+14,Russia,Moscow,17125000.0,55.7627179,37.6136371,Prada,Luxury
+15,Thailand,Bangkok,17066000.0,46.3092354,10.0706491,Prada,Luxury
+16,Argentina,Buenos Aires,16157000.0,-35.2717319,-57.2295337,Prada,Luxury
+17,Bangladesh,Dhaka,15443000.0,46.3092354,10.0706491,Prada,Luxury
+18,Nigeria,Lagos,15279000.0,42.63301545,2.2346724429064477,Prada,Luxury
+19,Turkey,Istanbul,15154000.0,41.0487075,28.9925538,Prada,Luxury
+20,Japan,Ōsaka,14977000.0,34.6714893,135.5006757,Prada,Luxury
+21,Pakistan,Karachi,14835000.0,46.3092354,10.0706491,Prada,Luxury
+22,India,Bangalore,13707000.0,46.3092354,10.0706491,Prada,Luxury
+23,Iran,Tehran,13633000.0,46.3092354,10.0706491,Prada,Luxury
+24,Vietnam,Ho Chi Minh City,13312000.0,21.0247206,105.8570964,Prada,Luxury
+25,United States,Los Angeles,12750807.0,34.0684678,-118.402524,Prada,Luxury
+26,India,Chennai,11324000.0,46.3092354,10.0706491,Prada,Luxury
+27,Pakistan,Lahore,11021000.0,46.3092354,10.0706491,Prada,Luxury
+28,France,Paris,11020000.0,48.8655508,2.3039717,Prada,Luxury
+29,United Kingdom,London,10979000.0,51.50912195,-0.14067488666799335,Prada,Luxury
+30,China,Tianjin,10800000.0,39.0896628,117.2088784,Prada,Luxury
+31,Peru,Lima,9848000.0,-12.1880989,-76.95811013574246,Prada,Luxury
+32,India,Hyderābād,9746000.0,46.3092354,10.0706491,Prada,Luxury
+33,Colombia,Bogotá,9464000.0,4.7161656,-74.0597032,Prada,Luxury
+34,United States,Chicago,8604203.0,41.9009042,-87.62727650629577,Prada,Luxury
+35,China,Changsha,8394500.0,28.2216803,112.9304272,Prada,Luxury
+36,Malaysia,Kuala Lumpur,8285000.0,46.3092354,10.0706491,Prada,Luxury
+37,Vietnam,Hanoi,7785000.0,21.0247206,105.8570964,Prada,Luxury
+38,India,Pune,7764000.0,46.3092354,10.0706491,Prada,Luxury
+39,China,Chongqing,7739000.0,29.5616089,106.5740781,Prada,Luxury
+40,China,Nanjing,7496000.0,32.045833,118.7794214,Prada,Luxury
+41,India,Ahmedabad,7410000.0,46.3092354,10.0706491,Prada,Luxury
+42,Hong Kong,Hong Kong,7347000.0,22.2815402,114.1588399,Prada,Luxury
+43,China,Xi’an,7135000.0,42.5543449,2.5464247,Prada,Luxury
+44,Chile,Santiago,7007000.0,-34.9189758,-56.1549942,Prada,Luxury
+45,United States,Miami,6445545.0,25.8140171,-80.1923173,Prada,Luxury
+46,China,Lu’an,6090000.0,51.1986499,5.9889021,Prada,Luxury
+47,Spain,Madrid,6026000.0,40.4224277,-3.7032224,Prada,Luxury
+48,India,Sūrat,5807000.0,46.3092354,10.0706491,Prada,Luxury
+49,China,Qingdao,5775000.0,36.0609764,120.3906802,Prada,Luxury
+50,Singapore,Singapore,5745000.0,1.3042427,103.8325926,Prada,Luxury
+51,United States,Dallas,5743938.0,32.8435884,-96.63319785395436,Prada,Luxury
+52,Kenya,Nairobi,5545000.0,46.3092354,10.0706491,Prada,Luxury
+53,China,Tai’an,5499000.0,41.3947314,2.1622194,Prada,Luxury
+54,Canada,Toronto,5429524.0,43.6687766,-79.3921164,Prada,Luxury
+55,United States,Washington,5379184.0,47.6167998,-122.192467,Prada,Luxury
+56,Russia,Saint Petersburg,5351935.0,59.9394065,30.3235055,Prada,Luxury
+57,Australia,Melbourne,5078193.0,-37.6366207,145.02556,Prada,Luxury
+58,Indonesia,Surabaya,4975000.0,46.3092354,10.0706491,Prada,Luxury
+59,China,Ji’an,4956600.0,43.4509543,-0.8463078,Prada,Luxury
+60,Egypt,Alexandria,4870000.0,44.7361477,8.8365655,Prada,Luxury
+61,Spain,Barcelona,4588000.0,41.3947314,2.1622194,Prada,Luxury
+62,China,Wuxi,4580000.0,31.5768387,120.2930094,Prada,Luxury
+63,South Africa,Johannesburg,4434827.0,-26.0058458,28.0306134,Prada,Luxury
+64,Morocco,Casablanca,4370000.0,40.9473024,-5.6711998,Prada,Luxury
+65,United States,Phoenix,4219697.0,46.3092354,10.0706491,Prada,Luxury
+66,Japan,Yokohama,3757630.0,46.3092354,10.0706491,Prada,Luxury
+67,Germany,Berlin,3644826.0,52.5006721,13.3152225,Prada,Luxury
+68,United States,San Francisco,3592294.0,37.788574,-122.4053874,Prada,Luxury
+69,Canada,Montréal,3519595.0,46.3092354,10.0706491,Prada,Luxury
+70,China,Taiyuan,3398000.0,37.8184975,112.5580648,Prada,Luxury
+71,China,Chaoyang,3370000.0,39.9079561,116.4727357,Prada,Luxury
+72,China,Zhongshan,3260000.0,32.045833,118.7794214,Prada,Luxury
+73,Bolivia,Santa Cruz,3151676.0,-17.7759947,-63.1737510679286,Prada,Luxury
+74,Brazil,Brasília,3015268.0,-21.7711576,-48.1503618,Prada,Luxury
+75,Ukraine,Kyiv,2963199.0,50.4479556,30.5242158,Prada,Luxury
+76,Philippines,Quezon City,2936116.0,46.3092354,10.0706491,Prada,Luxury
+77,"Korea, South",Incheon,2913024.0,37.4671839,126.4350863,Prada,Luxury
+78,Brazil,Salvador,2886698.0,-12.1880989,-76.95811013574246,Prada,Luxury
+79,United States,Denver,2876625.0,46.3092354,10.0706491,Prada,Luxury
+80,Italy,Rome,2872800.0,41.9056998,12.4818254,Prada,Luxury
+81,Bolivia,La Paz,2867504.0,-16.4950217,-68.1529212,Prada,Luxury
+82,Ecuador,Guayaquil,2723665.0,46.3092354,10.0706491,Prada,Luxury
+83,Taiwan,Taipei,2684567.0,25.0361079,121.5665735,Prada,Luxury
+84,Madagascar,Antananarivo,2610000.0,46.3092354,10.0706491,Prada,Luxury
+85,Bangladesh,Chattogram,2581643.0,46.3092354,10.0706491,Prada,Luxury
+86,Dominican Republic,Santo Domingo,2581827.0,18.5141749,-69.8666063,Prada,Luxury
+87,United States,Brooklyn,2559903.0,46.3092354,10.0706491,Prada,Luxury
+88,Colombia,Medellín,2529403.0,6.260117,-75.59527928549066,Prada,Luxury
+89,United Arab Emirates,Dubai,2502715.0,46.3092354,10.0706491,Prada,Luxury
+90,India,Mirzāpur,2496970.0,46.3092354,10.0706491,Prada,Luxury
+91,Brazil,Fortaleza,2452185.0,-13.7169849,-76.20580464792994,Prada,Luxury
+92,Guatemala,Guatemala City,2450212.0,40.7244716,-73.99785,Prada,Luxury
+93,India,Nāgpur,2405665.0,46.3092354,10.0706491,Prada,Luxury
+94,Indonesia,Bekasi,2381053.0,46.3092354,10.0706491,Prada,Luxury
+95,India,Ghāziābād,2381452.0,46.3092354,10.0706491,Prada,Luxury
+96,Ghana,Accra,2291352.0,46.3092354,10.0706491,Prada,Luxury
+97,Canada,Vancouver,2264823.0,49.2851078,-123.1237744,Prada,Luxury
+98,Indonesia,Tangerang,2237006.0,46.3092354,10.0706491,Prada,Luxury
+99,Turkey,Konya,2232374.0,46.3092354,10.0706491,Prada,Luxury
+100,United States,Queens,2230722.0,-13.710899,-76.2036583,Prada,Luxury

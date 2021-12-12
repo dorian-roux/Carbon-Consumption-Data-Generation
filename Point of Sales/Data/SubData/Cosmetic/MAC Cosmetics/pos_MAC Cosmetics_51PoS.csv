@@ -1,0 +1,52 @@
+,Unnamed: 0,Country,City,Population,Latitude,Longitude,Company,Type
+0,0,Japan,Tokyo,37977000.0,43.653746,-79.3809504,MAC Cosmetics,Cosmetic
+1,1,"Korea, South",Seoul,21794000.0,37.5142093,127.104805,MAC Cosmetics,Cosmetic
+2,2,Mexico,Mexico City,20996000.0,19.2994914,-99.1367632,MAC Cosmetics,Cosmetic
+3,3,United States,New York,18713220.0,40.642892,-73.782398,MAC Cosmetics,Cosmetic
+4,4,Nigeria,Lagos,15279000.0,52.95335195,-1.1507451809102196,MAC Cosmetics,Cosmetic
+5,5,Vietnam,Ho Chi Minh City,13312000.0,-12.471143,130.9838972,MAC Cosmetics,Cosmetic
+6,6,United States,Los Angeles,12750807.0,33.9413694,-118.4020992,MAC Cosmetics,Cosmetic
+7,7,France,Paris,11020000.0,48.8591926,2.345738,MAC Cosmetics,Cosmetic
+8,8,United Kingdom,London,10979000.0,51.5431765,-0.0072922,MAC Cosmetics,Cosmetic
+9,9,Peru,Lima,9848000.0,-12.0059372,-77.057967,MAC Cosmetics,Cosmetic
+10,10,China,Xi’an,7135000.0,43.5274744,5.4505309,MAC Cosmetics,Cosmetic
+11,11,United States,Miami,6445545.0,25.7905936,-80.1406102,MAC Cosmetics,Cosmetic
+12,12,China,Lu’an,6090000.0,51.9187561,4.4778509,MAC Cosmetics,Cosmetic
+13,13,Spain,Madrid,6026000.0,40.4180141,-3.7047583,MAC Cosmetics,Cosmetic
+14,14,United States,Dallas,5743938.0,32.9298284,-96.8189282,MAC Cosmetics,Cosmetic
+15,15,United States,Philadelphia,5649300.0,39.8745718,-75.251143,MAC Cosmetics,Cosmetic
+16,16,China,Tai’an,5499000.0,45.3470193,-75.80659739444354,MAC Cosmetics,Cosmetic
+17,17,United States,Houston,5464251.0,29.9856078,-95.3383066,MAC Cosmetics,Cosmetic
+18,18,United States,Atlanta,5449398.0,33.9242784,-84.3417669,MAC Cosmetics,Cosmetic
+19,19,Canada,Toronto,5429524.0,43.7776714,-79.3446042,MAC Cosmetics,Cosmetic
+20,20,United States,Washington,5379184.0,48.7859439,-122.4906341,MAC Cosmetics,Cosmetic
+21,21,China,Ji’an,4956600.0,43.424535,-80.4389439,MAC Cosmetics,Cosmetic
+22,22,United States,Boston,4688346.0,42.3471005,-71.0812125,MAC Cosmetics,Cosmetic
+23,23,United States,Seattle,3789215.0,47.4440861,-122.3030595840106,MAC Cosmetics,Cosmetic
+24,24,Germany,Berlin,3644826.0,52.4627397,13.325593,MAC Cosmetics,Cosmetic
+25,25,Bolivia,Santa Cruz,3151676.0,34.014686,-118.4947591,MAC Cosmetics,Cosmetic
+26,26,United States,Minneapolis,2977172.0,44.9485128,-93.2984989,MAC Cosmetics,Cosmetic
+27,27,United Kingdom,Birmingham,2897303.0,35.220705,-80.9421255,MAC Cosmetics,Cosmetic
+28,28,Guatemala,Guatemala City,2450212.0,19.2994914,-99.1367632,MAC Cosmetics,Cosmetic
+29,29,Canada,Vancouver,2264823.0,49.2825304,-123.122212,MAC Cosmetics,Cosmetic
+30,30,United States,Queens,2230722.0,40.642892,-73.782398,MAC Cosmetics,Cosmetic
+31,31,United States,Riverside,2107852.0,33.7195874,-116.3832356,MAC Cosmetics,Cosmetic
+32,32,United States,Baltimore,2106068.0,39.2834293,-76.6000286,MAC Cosmetics,Cosmetic
+33,33,United States,Las Vegas,2104198.0,36.0816981,-115.1382931,MAC Cosmetics,Cosmetic
+34,34,Austria,Vienna,1911191.0,48.19687975,16.33791915,MAC Cosmetics,Cosmetic
+35,35,Romania,Bucharest,1883425.0,44.5079474,26.0901366,MAC Cosmetics,Cosmetic
+36,36,United States,Orlando,1822394.0,28.4461206,-81.3954232,MAC Cosmetics,Cosmetic
+37,37,United States,San Jose,1798103.0,9.94341505,-84.14953816313752,MAC Cosmetics,Cosmetic
+38,38,United States,Austin,1687311.0,30.4029514,-97.7253921,MAC Cosmetics,Cosmetic
+39,39,United States,Kansas City,1636715.0,39.0414285,-94.5914462,MAC Cosmetics,Cosmetic
+40,40,United States,Columbus,1562009.0,40.05147535,-82.91513821634449,MAC Cosmetics,Cosmetic
+41,41,United States,Charlotte,1512923.0,35.220705,-80.9421255,MAC Cosmetics,Cosmetic
+42,42,Germany,Munich,1471508.0,48.1482902,11.46345163522592,MAC Cosmetics,Cosmetic
+43,43,Netherlands,The Hague,1406000.0,52.0794408,4.3087603,MAC Cosmetics,Cosmetic
+44,44,Czechia,Prague,1335084.0,50.0837036,14.423726,MAC Cosmetics,Cosmetic
+45,45,Argentina,Rosario,1193605.0,16.4097856,120.5992661,MAC Cosmetics,Cosmetic
+46,46,United States,Jacksonville,1181496.0,30.18441,-81.5537681,MAC Cosmetics,Cosmetic
+47,47,United States,Salt Lake City,1098526.0,40.7854731,-111.985901,MAC Cosmetics,Cosmetic
+48,48,Germany,Cologne,1085664.0,50.938448,6.9430532,MAC Cosmetics,Cosmetic
+49,49,United States,Richmond,1075798.0,49.167120100000005,-123.138391975,MAC Cosmetics,Cosmetic
+50,50,United States,Raleigh,1038738.0,35.8399423,-78.6797016,MAC Cosmetics,Cosmetic
