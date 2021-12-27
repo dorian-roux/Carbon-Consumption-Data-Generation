@@ -13,26 +13,21 @@ import pandas as pd
 import time
 import os
 import numpy as np
+import pathlib 
 
-data_path = "Data/" #Set the initial data_path
+
 ini_time = time.time() #Set the initial time of the execution
-
-
+script_abspath = pathlib.Path(__file__).parent.absolute() #Define the absolute path of the .py script
+data_abspath = script_abspath.joinpath(pathlib.Path("Data")) #Define the absolute path of the Data folder 
 
 ###############
 #  Functions  #
 ###############
 
-#Function that create a folder in the corresponding path (if it does not exists)
-def create_folder(path):
-    path_splt = path.split("/")
-    curr_path = "" 
-    for idx in range(len(path_splt)):  
-        curr_path += path_splt[idx] + "/"   
-        try:
-            os.mkdir(curr_path)
-        except:
-            pass
+#Create a folder from the current directory using a path string as argument
+def folder_creation(path):
+    fnl_path = pathlib.Path.cwd().joinpath(pathlib.Path(path)) #Build the full path from the current directory
+    return fnl_path.mkdir(exist_ok=True, parents=True) #Create the path folders
     
 #Function that convert a time (in seconds) into hours, minutes and seconds
 def convert_time(time_sec):
@@ -63,7 +58,7 @@ def pos_generator_industry(cities, industry, industry_type, count_limit):
     start_time = time.time() #Set the Initial Time
     count = 0 #Set the initial Counter
     for city, country, popul in zip(cities.city, cities.country, cities.population): #Iterate for each city from each country within the city dataset
-        if count > count_limit: #Check whether the number of generated Point of Sale is higher than the setted up Limit
+        if count >= count_limit: #Check whether the number of generated Point of Sale is higher than the setted up Limit
             break #Break the loop
         else:
             try:
@@ -126,7 +121,8 @@ def pos_generator(cities, comp, type, pos_count):
 ###########################
 
 #Read the Worlcities Dataset (https://simplemaps.com/data/world-cities, Creative Commons Attribution 4.0)
-wcities = pd.read_csv('Data/worldcities.csv')
+wcities_path = data_abspath.joinpath(pathlib.Path("worldcities.csv"))
+wcities = pd.read_csv(wcities_path) #Read the csv file about the cities around the world
 wcities = wcities[['city', 'lat', 'lng', 'country', 'population']] #Keep only the useful columns
 cities_h50k = wcities[wcities.population >= 50000] #Keep cities that have over 50,000 inhabithants
 
@@ -158,33 +154,29 @@ pos_generator(cities_h50k, company_name, company_type, pos_count) #Perform the P
 for company_name, company_dict in zip(lst_dict_company, lst_dict): #Iterate over the companies list and companies PoS dictionnary
     
     db_company = 'pos_{}'.format(company_name) #Set a dataframe company name
-    data_subtypepath = data_path + 'SubData/' + np.unique(company_dict['Type'])[0] #Set the company type path
-    data_subpath = data_subtypepath + "/" + company_name #Set the company path
-    create_folder(data_subpath) #Execute the folder(s) creation
+    data_subtypepath = data_abspath.joinpath(pathlib.Path('SubData'), pathlib.Path(np.unique(company_dict['Type'])[0])) #Set the company type path
+    data_subpath = data_subtypepath.joinpath(pathlib.Path(company_name)) #Set the company path
+    folder_creation(data_subpath) #Execute the folder(s) creation
     sub_dataframe = pd.DataFrame.from_dict(company_dict) #Build the company dataframe from the company dictionnary 
-    data_csv_path = data_subpath + "/" + db_company + ".csv" #Set the company dataframe (.csv) path
+    data_csv_path = data_subpath.joinpath(pathlib.Path(db_company + ".csv")) #Set the company dataframe (.csv) path
     
     #Check Existing File
     if os.path.exists(data_csv_path): #Check whether the file (.csv) path exists
         temp_data = pd.read_csv(data_csv_path) #If so, open the file
         if len(temp_data) > len(sub_dataframe): #Check whether the existing file has a higher length than the generated one
-            data_csv_path.replace('.csv', '_{}PoS.csv'.format(len(sub_dataframe))) #If so, replace the generated dataframe file path (displaying its length)
+            data_csv_path = pathlib.Path(str(data_csv_path).replace('.csv', '_{}PoS.csv'.format(len(sub_dataframe)))) #If so, replace the generated dataframe file path (displaying its length)
         else:
             new_path = data_csv_path #If not, modify the path of the existing file and save it
-            temp_data.to_csv(new_path.replace('.csv', '_{}PoS.csv'.format(len(temp_data)))) 
+            temp_data.to_csv(pathlib.Path(str(new_path).replace('.csv', '_{}PoS.csv'.format(len(temp_data))))) 
     else:
         pass #If the file does not exist, pass
     sub_dataframe.to_csv(data_csv_path) #Save the generated dataframe in its corresponding path
 
-
 #Create the General PoS Dataframe from the PoS Dictionnary
 pos_db = pd.DataFrame.from_dict(pos_dict)
-print(len(pos_db))
-print(pos_db.head())
 
 #Export the Dataframe to CSV
-pos_db.to_csv(data_path + "pos_db.csv")
-
+pos_db.to_csv(pathlib.Path(data_abspath, "pos_db.csv"))
 
 
 ###################
