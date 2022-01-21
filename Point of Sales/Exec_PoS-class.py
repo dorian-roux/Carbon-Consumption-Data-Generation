@@ -52,7 +52,7 @@ pos_exc.count_limit = 10 #Set the Count Limit
 comp = "Nike" #Set the Company(ies)
 comp_type = "Mode" #Set the Company Type
 pos_exc.pos_generator(comp, comp_type, pos_exc.count_limit) 
-print(pos_exc.posdf.sample(5)) #Display a sample of the DataFrame
+print(pos_exc.posdf.sample(5).reset_index(drop=True)) #Display a sample of the DataFrame
 
 #############
 # Example 2 #
@@ -62,7 +62,7 @@ pos_exc.count_limit = 5 #Set the Count Limit
 comp = ["Nike", "Adidas", "Sephora"] #Set the Companies
 comp_type = ["Mode", "Mode", "Cosmetic"] #Set the Companies Type
 pos_exc.pos_generator(comp, comp_type, pos_exc.count_limit) 
-print(pos_exc.posdf.sample(10)) #Display a sample of the DataFrame
+print(pos_exc.posdf.sample(10).reset_index(drop=True)) #Display a sample of the DataFrame
 
 
 ###################
