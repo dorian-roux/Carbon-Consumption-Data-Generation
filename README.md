@@ -2,7 +2,7 @@
   justify-content: center">
   <span align="center" style = "font-weight: 500; font-size: 20px;">ROULET Maria Paula & ROUX Dorian</span>  
   </br>
-  <img src=__Other/Images//CY TECH Logo.png" alt="Logo" height="80px" style = "margin: 10px">
+  <img src="./__Other/Images//CY TECH Logo.png" alt="Logo" height="80px" style = "margin: 10px">
   </br>
   <span align="center" style = "font-weight: 500; font-size: 18px;">4th Year International Bachelor in Data Science</span>  
 </div>
